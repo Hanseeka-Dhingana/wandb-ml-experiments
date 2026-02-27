@@ -1,4 +1,8 @@
 # Weights & Biases ML Experiments
+![Python](https://img.shields.io/badge/python-3.10%2B-blue)
+[![W&B Project](https://img.shields.io/badge/W%26B-Project-orange)](https://wandb.ai/hanseeka-dhingana-sukkur-iba-university/sklearn-iris)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Status](https://img.shields.io/badge/status-learning-success)
 
 This repository demonstrates how to use **Weights & Biases (W&B)** for experiment tracking in Python, starting from a simple *Hello World* example to a complete *machine learning workflow* using scikit-learn.
 
